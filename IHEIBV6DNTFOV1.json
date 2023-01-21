@@ -1,0 +1,73 @@
+{"Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+ "Item": [
+    {
+      "id": 1,
+      "title": "Notif 1,
+      "audio_link": "https://usc1.contabostorage.com/58d14b606d9d4a0ea5636b9de0289d1d:ntf/IHEIBV6DNTFOV1/NTF1.ogg"
+    },
+    {
+      "id": 2,
+      "title": "Notif 2",
+      "audio_link": "https://usc1.contabostorage.com/58d14b606d9d4a0ea5636b9de0289d1d:ntf/IHEIBV6DNTFOV1/NTF2.ogg"
+    },
+    {
+      "id": 3,
+      "title": "Notif 3",
+      "audio_link": "https://usc1.contabostorage.com/58d14b606d9d4a0ea5636b9de0289d1d:ntf/IHEIBV6DNTFOV1/NTF3.ogg"
+    },
+    {
+      "id": 4,
+      "title": "Notif 4",
+      "audio_link": "https://usc1.contabostorage.com/58d14b606d9d4a0ea5636b9de0289d1d:ntf/IHEIBV6DNTFOV1/NTF4.ogg"
+    },
+    {
+      "id": 5,
+      "title": "Notif 5",
+      "audio_link": "https://usc1.contabostorage.com/58d14b606d9d4a0ea5636b9de0289d1d:ntf/IHEIBV6DNTFOV1/NTF5.ogg"
+    },
+    {
+      "id": 6,
+      "title": "Notif 6",
+      "audio_link": "https://usc1.contabostorage.com/58d14b606d9d4a0ea5636b9de0289d1d:ntf/IHEIBV6DNTFOV1/NTF6.ogg"
+    },
+    {
+      "id": 7,
+      "title": "Notif 7",
+      "audio_link": "https://usc1.contabostorage.com/58d14b606d9d4a0ea5636b9de0289d1d:ntf/IHEIBV6DNTFOV1/NTF7.ogg"
+    },
+    {
+      "id": 8,
+      "title": "Notif 8",
+      "audio_link": "https://usc1.contabostorage.com/58d14b606d9d4a0ea5636b9de0289d1d:ntf/IHEIBV6DNTFOV1/NTF8.ogg"
+    },
+    {
+      "id": 9,
+      "title": "Notif 9",
+      "audio_link": "https://usc1.contabostorage.com/58d14b606d9d4a0ea5636b9de0289d1d:ntf/IHEIBV6DNTFOV1/NTF9.ogg"
+    },
+    {
+      "id": 10,
+      "title": Notif 10",
+      "audio_link": "https://usc1.contabostorage.com/58d14b606d9d4a0ea5636b9de0289d1d:ntf/IHEIBV6DNTFOV1/NTF10.ogg"
+    }
+  ]
+}
