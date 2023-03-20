@@ -1,0 +1,423 @@
+{"Ads": [
+  {
+    "select_main_ads": "",
+    "select_backup_ads":"",
+    "main_ads_banner": "ca-app-pub-5958591651083297/1580964346",
+    "main_ads_intertitial":"ca-app-pub-5958591651083297/3708434230",
+    "backup_ads_banner":"d9da4dbeb568d4a0",
+    "backup_ads_intertitial":"6e69765b570ab6ae",
+    "interval_intertitial": 5,
+    "initialize_sdk":"",
+    "initialize_sdk_backup_ads":"2_ZpVqdShIs3zxbVgy9BQNgLgVlRTAPVyszrdAcTTRW0XK6XmTKRB8ZESbGxXT8wRqnviZ757mDbl8JgSuENJt",
+    "high_paying_keyword_1": "insurance",
+    "high_paying_keyword_2": "loans",
+    "high_paying_keyword_3": "mortgage",
+    "high_paying_keyword_4": "attorney",
+    "high_paying_keyword_5": "credit",
+    "status_app": "0",
+    "link_redirect": "https://"
+  }
+],
+"Item": [
+    {
+      "id": "1",
+      "title": "Chill 1",
+      "audio_link": "chil_1.ogg"
+    },
+    {
+      "id": "2",
+      "title": "Chill 2",
+      "audio_link": "chil_2.ogg"
+    },
+    {
+      "id": "3",
+      "title": "Chill 3",
+      "audio_link": "chil_3.ogg"
+    },
+    {
+      "id": "4",
+      "title": "Chill 4",
+      "audio_link": "chil_4.ogg"
+    },
+    {
+      "id": "5",
+      "title": "Chill 5",
+      "audio_link": "chil_5.ogg"
+    },
+    {
+      "id": "6",
+      "title": "Chill 6",
+      "audio_link": "chil_6.ogg"
+    },
+    {
+      "id": "7",
+      "title": "Chill 7",
+      "audio_link": "chil_7.ogg"
+    },
+    {
+      "id": "8",
+      "title": "Chill 8",
+      "audio_link": "chil_8.ogg"
+    },
+    {
+      "id": "9",
+      "title": "Chill 9",
+      "audio_link": "chil_9.ogg"
+    },
+    {
+      "id": "10",
+      "title": "Chill 10",
+      "audio_link": "chil_10.ogg"
+    },
+    {
+      "id": "11",
+      "title": "Tropical 1",
+      "audio_link": "trop_1.ogg"
+    },
+    {
+      "id": "12",
+      "title": "Tropical 2",
+      "audio_link": "trop_2.ogg"
+    },
+    {
+      "id": "13",
+      "title": "Tropical 3",
+      "audio_link": "trop_3.ogg"
+    },
+    {
+      "id": "14",
+      "title": "Tropical 4",
+      "audio_link": "trop_4.ogg"
+    },
+    {
+      "id": "15",
+      "title": "Tropical 5",
+      "audio_link": "trop_5.ogg"
+    },
+    {
+      "id": "16",
+      "title": "Tropical 6",
+      "audio_link": "trop_6.ogg"
+    },
+    {
+      "id": "17",
+      "title": "Tropical 7",
+      "audio_link": "trop_7.ogg"
+    },
+    {
+      "id": "18",
+      "title": "Tropical 8",
+      "audio_link": "trop_8.ogg"
+    },
+    {
+      "id": "19",
+      "title": "Tropical 9",
+      "audio_link": "trop_9.ogg"
+    },
+    {
+      "id": "20",
+      "title": "Tropical 10",
+      "audio_link": "trop_10.ogg"
+    },
+    {
+      "id": "21",
+      "title": "Breakbeat 1",
+      "audio_link": "brea_1.ogg"
+    },
+    {
+      "id": "22",
+      "title": "Breakbeat 2",
+      "audio_link": "brea_2.ogg"
+    },
+    {
+      "id": "23",
+      "title": "Breakbeat 3",
+      "audio_link": "brea_3.ogg"
+    },
+    {
+      "id": "24",
+      "title": "Breakbeat 4",
+      "audio_link": "brea_4.ogg"
+    },
+    {
+      "id": "25",
+      "title": "Breakbeat 5",
+      "audio_link": "brea_5.ogg"
+    },
+    {
+      "id": "26",
+      "title": "Breakbeat 6",
+      "audio_link": "brea_6.ogg"
+    },
+    {
+      "id": "27",
+      "title": "Breakbeat 7",
+      "audio_link": "brea_7.ogg"
+    },
+    {
+      "id": "28",
+      "title": "Breakbeat 8",
+      "audio_link": "brea_8.ogg"
+    },
+    {
+      "id": "29",
+      "title": "Breakbeat 9",
+      "audio_link": "brea_9.ogg"
+    },
+    {
+      "id": "30",
+      "title": "Breakbeat 10",
+      "audio_link": "brea_10.ogg"
+    },
+    {
+      "id": "31",
+      "title": "Club 1",
+      "audio_link": "club_1.ogg"
+    },
+    {
+      "id": "32",
+      "title": "Club 2",
+      "audio_link": "club_2.ogg"
+    },
+    {
+      "id": "33",
+      "title": "Club 3",
+      "audio_link": "club_3.ogg"
+    },
+    {
+      "id": "34",
+      "title": "Club 4",
+      "audio_link": "club_4.ogg"
+    },
+    {
+      "id": "35",
+      "title": "Club 5",
+      "audio_link": "club_5.ogg"
+    },
+    {
+      "id": "36",
+      "title": "Club 6",
+      "audio_link": "club_6.ogg"
+    },
+    {
+      "id": "37",
+      "title": "Club 7",
+      "audio_link": "club_7.ogg"
+    },
+    {
+      "id": "38",
+      "title": "Club 8",
+      "audio_link": "club_8.ogg"
+    },
+    {
+      "id": "39",
+      "title": "Club 9",
+      "audio_link": "club_9.ogg"
+    },
+    {
+      "id": "40",
+      "title": "Club 10",
+      "audio_link": "club_10.ogg"
+    },
+    {
+      "id": "41",
+      "title": "Dance 1",
+      "audio_link": "danc_1.ogg"
+    },
+    {
+      "id": "42",
+      "title": "Dance 2",
+      "audio_link": "danc_2.ogg"
+    },
+    {
+      "id": "43",
+      "title": "Dance 3",
+      "audio_link": "danc_3.ogg"
+    },
+    {
+      "id": "44",
+      "title": "Dance 4",
+      "audio_link": "danc_4.ogg"
+    },
+    {
+      "id": "45",
+      "title": "Dance 5",
+      "audio_link": "danc_5.ogg"
+    },
+    {
+      "id": "46",
+      "title": "Dance 6",
+      "audio_link": "danc_6.ogg"
+    },
+    {
+      "id": "47",
+      "title": "Dance 7",
+      "audio_link": "danc_7.ogg"
+    },
+    {
+      "id": "48",
+      "title": "Dance 8",
+      "audio_link": "danc_8.ogg"
+    },
+    {
+      "id": "49",
+      "title": "Dance 9",
+      "audio_link": "danc_9.ogg"
+    },
+    {
+      "id": "50",
+      "title": "Dance 10",
+      "audio_link": "danc_10.ogg"
+    },
+    {
+      "id": "51",
+      "title": "Bass 1",
+      "audio_link": "futb_1.ogg"
+    },
+    {
+      "id": "52",
+      "title": "Bass 2",
+      "audio_link": "futb_2.ogg"
+    },
+    {
+      "id": "53",
+      "title": "Bass 3",
+      "audio_link": "futb_3.ogg"
+    },
+    {
+      "id": "54",
+      "title": "Bass 4",
+      "audio_link": "futb_4.ogg"
+    },
+    {
+      "id": "55",
+      "title": "Bass 5",
+      "audio_link": "futb_5.ogg"
+    },
+    {
+      "id": "56",
+      "title": "Bass 6",
+      "audio_link": "futb_6.ogg"
+    },
+    {
+      "id": "57",
+      "title": "Bass 7",
+      "audio_link": "futb_7.ogg"
+    },
+    {
+      "id": "58",
+      "title": "Bass 8",
+      "audio_link": "futb_8.ogg"
+    },
+    {
+      "id": "59",
+      "title": "Bass 9",
+      "audio_link": "futb_9.ogg"
+    },
+    {
+      "id": "60",
+      "title": "Bass 10",
+      "audio_link": "futb_10.ogg"
+    },
+    {
+      "id": "61",
+      "title": "House 1",
+      "audio_link": "futh_1.ogg"
+    },
+    {
+      "id": "62",
+      "title": "House 2",
+      "audio_link": "futh_2.ogg"
+    },
+    {
+      "id": "63",
+      "title": "House 3",
+      "audio_link": "futh_3.ogg"
+    },
+    {
+      "id": "64",
+      "title": "House 4",
+      "audio_link": "futh_4.ogg"
+    },
+    {
+      "id": "65",
+      "title": "House 5",
+      "audio_link": "futh_5.ogg"
+    },
+    {
+      "id": "66",
+      "title": "House 6",
+      "audio_link": "futh_6.ogg"
+    },
+    {
+      "id": "67",
+      "title": "House 7",
+      "audio_link": "futh_7.ogg"
+    },
+    {
+      "id": "68",
+      "title": "House 8",
+      "audio_link": "futh_8.ogg"
+    },
+    {
+      "id": "69",
+      "title": "House 9",
+      "audio_link": "futh_9.ogg"
+    },
+    {
+      "id": "70",
+      "title": "House 10",
+      "audio_link": "futh_10.ogg"
+    },
+    {
+      "id": "71",
+      "title": "Gold 1",
+      "audio_link": "gold_1.ogg"
+    },
+    {
+      "id": "72",
+      "title": "Gold 2",
+      "audio_link": "gold_2.ogg"
+    },
+    {
+      "id": "73",
+      "title": "Gold 3",
+      "audio_link": "gold_3.ogg"
+    },
+    {
+      "id": "74",
+      "title": "Gold 4",
+      "audio_link": "gold_4.ogg"
+    },
+    {
+      "id": "75",
+      "title": "Gold 5",
+      "audio_link": "gold_5.ogg"
+    },
+    {
+      "id": "76",
+      "title": "Gold 6",
+      "audio_link": "gold_6.ogg"
+    },
+    {
+      "id": "77",
+      "title": "Gold 7",
+      "audio_link": "gold_7.ogg"
+    },
+    {
+      "id": "78",
+      "title": "Gold 8",
+      "audio_link": "gold_8.ogg"
+    },
+    {
+      "id": "79",
+      "title": "Gold 9",
+      "audio_link": "gold_9.ogg"
+    },
+    {
+      "id": "80",
+      "title": "Gold 10",
+      "audio_link": "gold_10.ogg"
+    }
+  ]
+}
