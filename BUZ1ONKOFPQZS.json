@@ -1,14 +1,14 @@
 {"Ads": [
     {
       "select_main_ads": "ADMOB",
-      "select_backup_ads":"APPLOVIN-M",
+      "select_backup_ads": "APPLOVIN-M",
       "main_ads_banner": "ca-app-pub-5958591651083297/3216102928",
       "main_ads_intertitial":"",
-      "backup_ads_banner":"98b92a6c7d4f121b",
+      "backup_ads_banner": "98b92a6c7d4f121b",
       "backup_ads_intertitial":"",
       "interval_intertitial": 5,
       "initialize_sdk":"",
-      "initialize_sdk_backup_ads":"",
+      "initialize_sdk_backup_ads": "2_ZpVqdShIs3zxbVgy9BQNgLgVlRTAPVyszrdAcTTRW0XK6XmTKRB8ZESbGxXT8wRqnviZ757mDbl8JgSuENJt",
       "high_paying_keyword_1": "insurance",
       "high_paying_keyword_2": "loans",
       "high_paying_keyword_3": "mortgage",
